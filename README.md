@@ -1,4 +1,4 @@
-### Project Link : [Supervised Machine Learning](https://github.com/PinkyBhansali/Machine-Learning/tree/master/ML-%20Classification%20Problem)
+### Project Link : [Supervised Machine Learning](https://github.com/PinkyBhansali/Machine-Learning/tree/master/ML-%20Classification%20Problem/ATM%20Fraud%20Prediction)
 
 ### Problem Statement: 
 PredCatch Analytics' Australian banking client's profitability and reputation are being hit by fraudulent ATM transactions. They want PredCatch to help them in reducing and if possible completely eliminating such fraudulent transactions. PredCatch believes it can do the same by building a predictive model to catch such fraudulent transactions in real time and decline them
